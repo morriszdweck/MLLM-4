@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 """
-MLLM-4-Neptune - Micro Language Model-4 (Simplified)
+MLLM-4-Mercury - Micro Language Model-4 (Simplified)
 Bare Math Expressions | Local Tools | N-Gram Fallback
 No prefixes needed: type "2+2" and get "4"
 All responses in simple English - no Chinese characters
@@ -431,7 +431,7 @@ class MLLM4_Alcyoneus:
         return [t for t in tokens if t.strip()]
     
     def train(self, corpus):
-        print("Training MLLM-4-Neptune...")
+        print("Training MLLM-4-Mercury...")
         self.corpus = corpus
         self.tokens = self.tokenize(corpus)
         self.vocabulary = set(self.tokens)
@@ -536,7 +536,7 @@ class MLLM4_Alcyoneus:
 
 def print_header():
     print("\n" + "="*50)
-    print("  MLLM-4-Neptune")
+    print("  MLLM-4-Mercury")
     print("  Simple math: type 1+1, get 2")
     print("  Tools: base64, hash, fractions")
     print("="*50 + "\n")
