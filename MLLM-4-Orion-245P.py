@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════
 """
-MLLM-4-Alcyoneus - Micro Language Model-4 (Simplified)
+MLLM-4-Orion - Micro Language Model-4 (Simplified)
 Bare Math Expressions | Local Tools | N-Gram Fallback
 """
 
@@ -3734,7 +3734,7 @@ class MLLM4_Alcyoneus:
         return [t for t in tokens if t.strip()]
     
     def train(self, corpus):
-        print("Training MLLM-4-Alcyoneus...")
+        print("Training MLLM-4-Orion...")
         self.corpus = corpus
         self.tokens = self.tokenize(corpus)
         self.vocabulary = set(self.tokens)
@@ -3839,7 +3839,7 @@ class MLLM4_Alcyoneus:
 
 def print_header():
     print("\n" + "="*50)
-    print("  MLLM-4-Alcyoneus")
+    print("  MLLM-4-Orion")
     print("  Simple math: type 1+1, get 2")
     print("  Tools: base64, hash, fractions")
     print("="*50 + "\n")
