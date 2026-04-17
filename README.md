@@ -1,7 +1,7 @@
 # MLLM-4
 Micro Local Launguage models- Extremely small, could run on almost anything
 
-Current Models: MLLM-4-Alcyoneus
+Current Models: MLLM-4-Alcyoneus, MLLM-4-Orion
 
 # Models:
 
@@ -12,7 +12,7 @@ Great for Autocomplte systems. more random and less accurate then smaller models
 
 
 ### MLLM-4-Orion
-balanced model, great amount of knowledge, accurate, and also great for autocomplete. Best for just about anything. Reccomended for Chat and Lightweight AutoComplete. Estimated 230P.
+balanced model, great amount of knowledge, accurate, and also great for autocomplete. Best for just about anything. Reccomended for Chat and Lightweight AutoComplete. 245 Pages of data.
 
 ### MLLM-4-Neptune
 Just perfect for chat, with it's smaller yet very accurate Corpus. Being small but still big enough, making it (probaly) the best choice for Chat. Estimated 70P.
