@@ -4,7 +4,7 @@ Micro Local Launguage models- Extremely small, could run on almost anything
 
 # Current models:
 
-MLLM-4-Alcyoneus-785P- Our most powerful Model yet, with a whopping 785 pages of data. wow! More accurate then MLLM-3, and includes tools such as math- giving this model incredible math performance over MLLM-3. Less focused due to large Corpus.
+MLLM-4-Alcyoneus-785P- Our Largest Model yet, with a whopping 785 pages of data. wow! More accurate then MLLM-3, and includes tools such as math- giving this model incredible math performance over MLLM-3. Less focused due to large Corpus, more random. for more focused and precise, use smaller models.
 
 Planned models: MLLM-4 Mercury, MLLM-4-Neptune, MLLM-4-Orion
 
