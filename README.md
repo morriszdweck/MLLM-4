@@ -1,7 +1,7 @@
 # MLLM-4
 Micro Local Launguage models- Extremely small, could run on almost anything
 
-Current Models: MLLM-4-Alcyoneus, MLLM-4-Orion, MLLM-4-Neptune, MLLM-4-Mercury
+Current Models: MLLM-4-Alcyoneus, MLLM-4-Orion, MLLM-4-Neptune, MLLM-4-Mercury, MLLM-4-Abyss
 
 # Models:
 
@@ -20,3 +20,6 @@ Just perfect for chat, with it's smaller yet very accurate Corpus. Being small b
 
 ### MLLM-4-Mercury
 Most focused, but low amount of data may cause it to hallucinate. Still, its a solid choice and the most lightweight- not a bad option, and doesn't slack when it comes to chat. 13 pages of data. (Second Smallest model we ever made)
+
+### MLLM-4-Abyss
+Designed for fine tuning, this model has... no corpus. It still could, right out of the box, answer math problems, hash and Base64 encode things.
