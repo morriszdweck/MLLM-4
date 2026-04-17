@@ -1,15 +1,21 @@
 # MLLM-4
 Micro Local Launguage models- Extremely small, could run on almost anything
 
+Current Models: MLLM-4-Alcyoneus
 
-# Current models:
+# Models:
 
-MLLM-4-Alcyoneus-785P- Our Largest Model yet, with a whopping 785 pages of data. wow! More accurate then MLLM-3, and includes tools such as math- giving this model incredible math performance over MLLM-3. Less focused due to large Corpus, more random. for more focused and precise, use smaller models.
+### MLLM-4-Alcyoneus
+Great for Autocomplte systems. more random and less accurate then smaller models, but large amount of text data makes it perfect for autocomplete. Not reccomended for Chat. 785 pages of data.
 
-Planned models: MLLM-4 Mercury, MLLM-4-Neptune, MLLM-4-Orion
+(Tip: let it complete something for you! ChatGPT is... iPhone is... This makes it a ton more accurate)
 
-MLLM-4-Orion: Coming soon. Estimated to be around 230P
 
-MLLM-4-Neptune: Coming soon. Estimated to be around 70P
+### MLLM-4-Orion
+balanced model, great amount of knowledge, accurate, and also great for autocomplete. Best for just about anything. Reccomended for Chat and Lightweight AutoComplete. Estimated 230P.
 
-MLLM-4-Mercury: Coming soon. Estimated to be around 20P.
+### MLLM-4-Neptune
+Just perfect for chat, with it's smaller yet very accurate Corpus. Being small but still big enough, making it (probaly) the best choice for Chat. Estimated 70P.
+
+### MLLM-4-Mercury
+Most focused, but low amount of data may cause it to hallucinate. Still, its a solid choice and the most lightweight- not a bad option, and doesn't slack when it comes to chat. Estimated 20P.
