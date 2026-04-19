@@ -3,6 +3,9 @@ Micro Local Launguage models- Extremely small, could run on almost anything
 
 Current Models: MLLM-4-Alcyoneus, MLLM-4-Orion, MLLM-4-Neptune, MLLM-4-Mercury, MLLM-4-Abyss
 
+Try our models online- on your deivce, browser based, and for free!
+https://mllm-4-studio.netlify.app/ 
+
 # Models:
 
 ### MLLM-4-Alcyoneus
